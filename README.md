@@ -75,4 +75,3 @@ Se quiser trocar uma ideia sobre programação, tecnologia ou qualquer outro ass
 
 
 🛠️ **"A melhor forma de aprender a programar é colocando a mão no código!"**  
-```
