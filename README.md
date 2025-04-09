@@ -4,7 +4,7 @@
 ```yaml
 📍 Localização: Caldas Novas - GO  
 💡 Interesse: Programação, Automação & Desenvolvimento Web  
-🖥️ Tecnologias: HTML, CSS, JavaScript, Python  
+🖥️ Tecnologias: HTML, CSS, JavaScript, Nodejs e Python  
 🎯 Objetivo: Criar soluções, aprender e crescer na área de tecnologia  
 ```
 
